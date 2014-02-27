@@ -5,6 +5,7 @@
 # Libraries
 *.lib
 *.a
+bcmp
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -16,3 +17,7 @@
 *.exe
 *.out
 *.app
+
+# others
+
+*~
